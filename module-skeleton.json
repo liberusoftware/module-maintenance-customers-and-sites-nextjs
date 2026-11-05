@@ -1,0 +1,15 @@
+{
+  "repository": "module-maintenance-customers-and-sites-nextjs",
+  "capabilityKey": "liberusoftware/module-maintenance-customers-and-sites",
+  "presentation": "next-react",
+  "package": "@liberusoftware/module-maintenance-customers-and-sites-nextjs",
+  "foundation": "module-boilerplate-nextjs",
+  "foundationCommit": "f36c3c383b38a8ebedb343dffa24cf64bec1817b",
+  "canonicalPlan": "projects/maintenance/nextjs/customers-and-sites.md",
+  "presentationPlan": "projects/maintenance/nextjs/customers-and-sites.md",
+  "identityReviewRequired": false,
+  "status": "skeleton",
+  "documentedConsumerScopes": [
+    "maintenance"
+  ]
+}
